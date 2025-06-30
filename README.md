@@ -76,6 +76,4 @@ Successfully trained an RNN model capable of learning from historical Google sto
 The predicted stock prices closely followed the actual prices for January 2017, showing the model's ability to capture underlying trends.
 
 # 🙌🏻 Data Scientist 
-Behara Pavan Kumar
-
-The predicted stock prices closely followed the actual prices for January 2017, showing the model's ability to capture underlying trends.
+Behara Pavan Kumar.
